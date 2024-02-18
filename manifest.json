@@ -8,5 +8,11 @@
         "js": ["egdc.js"],
         "matches": [ "https://docs.google.com/document/*", "http://docs.google.com/document/*" ]
     }
-  ] 
+  ],
+  "icons": {
+    "128": "images/icon-128.png",
+    "48": "images/icon-48.png",
+    "32": "images/icon-32.png",
+    "16": "images/icon-16.png"
+  }
 }
